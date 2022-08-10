@@ -1,5 +1,4 @@
 import React from "react";
-import ContactDetails from "../Atoms/ContactDetails/ContactDetails";
 import { Outlet } from "react-router-dom";
 
 export default function Content() {

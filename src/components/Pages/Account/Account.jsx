@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { FaEdit } from "react-icons/fa";
 import "./Account.css";
 import OutletHeader from "../../Atoms/OutletHeader/OutletHeader";
 import ContactDetails from "../../Atoms/ContactDetails/ContactDetails";
