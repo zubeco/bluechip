@@ -29,7 +29,8 @@ module.exports = {
         'nine': "#494848",
         'ten': "#F9FAFA",
         'tenth': "#DFE4E8",
-        'eleven': "#53C67A"
+        'eleven': "#53C67A",
+        'accent': "green"
       },
       fontSize: {
         s: ['10px', '14px'],

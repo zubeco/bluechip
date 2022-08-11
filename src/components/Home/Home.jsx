@@ -1,4 +1,3 @@
-import React from "react";
 import Sidebar from "../../components/Molecules/Sidebar/Sidebar";
 import Mainbar from "../../components/Molecules/Mainbar/Mainbar";
 

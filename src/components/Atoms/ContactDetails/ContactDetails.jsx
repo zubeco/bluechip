@@ -4,17 +4,16 @@ export default function ContactDetails() {
   return (
     <div>
       <div className="flex items-center pt-12 pb-5">
-        <h3 className="text-2xl font-bold text-third font-manrope pr-4">
+        <h3 className="pr-4 text-2xl font-bold text-third font-manrope">
           New Account(Individual)
         </h3>
-        <p className="text-s font-semibold text-secondary px-2 py-1 bg-white rounded-sm mr-2">
+        <p className="px-2 py-1 mr-2 font-semibold bg-white rounded-sm text-s text-secondary">
           DRAFT
         </p>
-        <p className="text-s font-semibold text-secondary px-2 py-1 bg-fourth rounded-sm">
+        <p className="px-2 py-1 font-semibold rounded-sm text-s text-secondary bg-fourth">
           RESTRICTED
         </p>
       </div>
-      
       <SubHeader />
     </div>
   );

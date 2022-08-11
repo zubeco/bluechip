@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
-import "./Account.css";
 import OutletHeader from "../../Atoms/OutletHeader/OutletHeader";
 import ContactDetails from "../../Atoms/ContactDetails/ContactDetails";
+
 
 export default function Account() {
   return (

@@ -1,9 +1,7 @@
-import React from "react";
-
 export default function OutletHeader() {
   return (
     <div>
-      <div className="h-24  rounded-t-md border-gray-100 border-b-2 pl-12 items-center flex">
+      <div className="flex items-center h-24 pl-12 border-b-2 border-gray-100 rounded-t-md">
         <div className="flex items-center">
           <div className="rounded-3xl w-14 ">
             <img
@@ -13,10 +11,10 @@ export default function OutletHeader() {
             />
           </div>
           <div className="pl-4">
-            <h2 className="font-manrope font-bold text-base text-third pb-1">
+            <h2 className="pb-1 text-base font-bold font-manrope text-third">
               Tomiwa Ogunremi
             </h2>
-            <p className="text-seven text-s font-normal">BVN:3939848490505</p>
+            <p className="font-normal text-seven text-s">BVN:3939848490505</p>
           </div>
         </div>
       </div>
